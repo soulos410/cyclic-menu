@@ -1,0 +1,52 @@
+{
+    "data": [{
+            "items": [{
+                    "text": "main"
+                },
+                {
+                    "text": "search"
+                },
+                {
+                    "text": "library"
+                },
+                {
+                    "text": "settings"
+                }
+            ],
+            "settings": {
+                "activeItemClass": "selected",
+                "itemClass": "menu-item",
+                "features": [
+                    "setActive"
+                ]
+            },
+            "menuContainer": "body"
+        },
+        {
+            "items": [{
+                    "text": "discover"
+                },
+                {
+                    "text": "following"
+                },
+                {
+                    "text": "browse"
+                },
+                {
+                    "text": "about"
+                },
+                {
+                    "text": "store"
+                }
+            ],
+            "settings": {
+                "activeItemClass": "selected",
+                "itemClass": "menu-item",
+                "features": [
+                    "setActive"
+                ]
+            },
+            "menuContainer": "body"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "indent": ["error", 4],
+        "no-extra-boolean-cast": "off",
+        "class-methods-use-this": "off"
+    },
+    "env": {
+        "browser": true
+    }
+}

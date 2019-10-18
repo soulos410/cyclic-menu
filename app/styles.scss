@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.menu-wrapper {
+    display: flex;
+    margin: 0 auto 10px;
+    align-items: center;
+    justify-content: center;
+    font-family: "Raleway";
+    font-size: 16px;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 400px;
+    margin: 10px 0 10px 0;
+}
+
+.menu-item a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.selected {
+    color: #00a90a;
+    border-bottom: 2px solid #00a90a;
+}
+
+.close-button {
+    width: 25px;
+    height: 25px;
+    margin: 0 0 0 15px;
+}
